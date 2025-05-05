@@ -4,7 +4,7 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-    question.innerHTML = "I love you to nila";
+    question.innerHTML = "I love you to Nika";
     gif.src = "https://gifdb.com/images/high/kawaii-yay-mochi-jump-4x42tyczilgub5xm.gif";
 });
 
